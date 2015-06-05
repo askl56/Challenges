@@ -10,6 +10,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 [@hunj](https://github.com/hunj)
 
+[@scripore](https://github.com/scripore)
+
 ### Maths
 
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
@@ -25,3 +27,12 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 ### Programs
 
 **Lumberjack Pile Problem** - Help the lumberjacks stack their logs!
+
+### Ruby Exercises with RSpec
+
+**String Manipulation Category** - Exercises involving string manipulation
+
+ 1. String Reversal - The task is to reverse a string so that the method reverse_string with a parameter of "too" will return "oot". Complete this exercise without using the .reverse method.
+
+
+
