@@ -1,5 +1,5 @@
-def fibonaci
-  p "Enter a number and I'll compute the fibonaci sequence up to that number:"
+def fibonacci
+  p "Enter a number and I'll compute the fibonacci sequence up to that number:"
   num = gets.to_i
 
   n1 = 0
@@ -20,4 +20,4 @@ def print_sequence_num(result, num)
   puts result unless (result >= num)
 end
 
-fibonaci
+fibonacci
