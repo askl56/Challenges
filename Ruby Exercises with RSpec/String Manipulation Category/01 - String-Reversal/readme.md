@@ -1,0 +1,1 @@
+Write you solution in the lib/reverse_string.rb file and get the rspec tests to pass. The task is to reverse a string so that the method reverse_string with a parameter of "too" will return "oot". Complete this exercise without using the .reverse method.
