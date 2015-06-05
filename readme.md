@@ -1,6 +1,6 @@
 # Coding Challenges for Dan's Mentoring Group
 
-Simple. Fork the repo, complete the challenge (in any language you want), prefixed with your Github username and then submit a pull request. 
+Simple. Fork the repo, complete the challenge (in any language you want), prefixed with your Github username and then submit a pull request. We encourage [atomic commits](http://www.freshconsulting.com/atomic-commits/). One change/task per commit.
 
 ## Contributors
 
