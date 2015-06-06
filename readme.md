@@ -1,4 +1,4 @@
-# Coding Challenges for Dan's Mentoring Group
+# Coding Challenges
 
 Simple. Fork the repo, complete the challenge (in any language you want), prefixed with your Github username and then submit a pull request. We encourage [atomic commits](http://www.freshconsulting.com/atomic-commits/). One change/task per commit.
 
@@ -25,6 +25,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 5. **Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
 
 6. **SquareSum Challenge** - Write a method that squares all of the numbers passed into it (in an array) and sums them together. 
+
+7. **Multiplication Tables** - Create a function that accepts dimensions, of Rows x Columns, as parameters in order to create a multiplication table sized according to the given dimensions. 
 
 ### Programs
 
