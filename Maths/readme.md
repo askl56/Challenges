@@ -6,3 +6,4 @@
 4. Digital Root
 5. Sieve of Eratosthenes
 6. SquareSum Challenge
+7. Multiplication Tables
