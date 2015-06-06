@@ -24,11 +24,11 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 5. **Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
 
-6. **SquareSum Challenge** - Write a method that squares all of the numbers passed into it (in an array) and sums them together.
+6. **SquareSum Challenge** - Write a method that squares all of the numbers passed into it (in an array) and sums them together. 
 
 ### Programs
 
-**Lumberjack Pile Problem** - Help the lumberjacks stack their logs!
+1. **Lumberjack Pile Problem** - Help the lumberjacks stack their logs!
 
 ### Ruby Exercises with RSpec
 
