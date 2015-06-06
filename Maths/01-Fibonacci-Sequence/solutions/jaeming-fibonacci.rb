@@ -4,21 +4,18 @@ def fibonacci
   n1 = 0
   n2 = 1
   sum = 0
-  ary = []
+  results = []
 
-  while below_input?(sum, num_input)
-    ary << n1 if below_input?(n1, num_input)
-    ary << n2 if below_input?(n2, num_input)
+  while sum <= num_input
+    results << n1
+    results << n2
     sum = n1 + n2
-    ary << sum if below_input?(sum, num_input)
+    results << sum
     n1 = (n2 + sum)
     n2 = (n1 + sum)
   end
-  puts ary
-end
 
-def below_input?(num, num_input)
-  num <= num_input
+  puts results.delete_if { |i| i > num_input }
 end
 
 fibonacci
