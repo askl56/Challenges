@@ -7,3 +7,4 @@
 5. Sieve of Eratosthenes
 6. SquareSum Challenge
 7. Multiplication Tables
+8. Hailstone Sequence
