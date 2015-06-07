@@ -4,9 +4,9 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 ## Contributors
 
-[@dansteele](https://github.com/dansteele)
-
 [@askl56](https://github.com/askl56)
+
+[@dansteele](https://github.com/dansteele)
 
 [@hunj](https://github.com/hunj)
 
@@ -27,6 +27,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 6. **SquareSum Challenge** - Write a method that squares all of the numbers passed into it (in an array) and sums them together. 
 
 7. **Multiplication Tables** - Create a function that accepts dimensions, of Rows x Columns, as parameters in order to create a multiplication table sized according to the given dimensions. 
+
+8. **Hailstone Sequence** - Start with any positive integer (an initial seed) and obtain a sequence of numbers by following: if number is even divite it by two, if it is odd multiply it by 3 and add one. Repeat.  
 
 ### Programs
 
