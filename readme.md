@@ -28,7 +28,9 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 7. **Multiplication Tables** - Create a function that accepts dimensions, of Rows x Columns, as parameters in order to create a multiplication table sized according to the given dimensions. 
 
-8. **Hailstone Sequence** - Start with any positive integer (an initial seed) and obtain a sequence of numbers by following: if number is even divite it by two, if it is odd multiply it by 3 and add one. Repeat.  
+8. **Hailstone Sequence** - Start with any positive integer (an initial seed) and obtain a sequence of numbers by following: if number is even divite it by two, if it is odd multiply it by 3 and add one. Repeat. 
+
+9. **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. 
 
 ### Programs
 

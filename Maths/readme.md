@@ -8,3 +8,4 @@
 6. SquareSum Challenge
 7. Multiplication Tables
 8. Hailstone Sequence
+9. Next Prime Number
