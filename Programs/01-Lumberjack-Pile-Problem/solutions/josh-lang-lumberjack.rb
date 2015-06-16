@@ -13,7 +13,7 @@ def store_logs(input)
   end
 
   puts 'UPDATED LOG STORAGE REPORT'
-  if piles.count == 1 && piles == [42]
+  if piles == [42]
     puts 'The Answer'
   else
     piles.each_slice(size) { |s| puts s.join(' ') }
