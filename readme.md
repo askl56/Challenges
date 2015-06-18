@@ -6,8 +6,6 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 [@askl56](https://github.com/askl56)
 
-[@dansteele](https://github.com/dansteele)
-
 [@hunj](https://github.com/hunj)
 
 [@scripore](https://github.com/scripore)
