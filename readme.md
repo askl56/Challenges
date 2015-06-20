@@ -30,6 +30,9 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 9. **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. 
 
+10. **Vampire Numbers** - In mathematics, a [vampire number](https://en.wikipedia.org/wiki/Vampire_number) (or true vampire number) is a composite natural number v, with an even number of digits n, that can be factored into two integers x and y each with n/2 digits and not both with trailing zeroes, where v contains precisely all the digits from x and from y, in any order, counting multiplicity. x and y are called the fangs.
+
+
 ### Programs
 
 1. **Lumberjack Pile Problem** - Help the lumberjacks stack their logs!
