@@ -34,6 +34,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 10. **Vampire Numbers** - In mathematics, a [vampire number](https://en.wikipedia.org/wiki/Vampire_number) (or true vampire number) is a composite natural number v, with an even number of digits n, that can be factored into two integers x and y each with n/2 digits and not both with trailing zeroes, where v contains precisely all the digits from x and from y, in any order, counting multiplicity. x and y are called the fangs.
 
+11. **Valid Parentheses** - The basic idea is to create a method that takes a string as input, and returns a boolean. True if the parentheses in the string are valid, false if not. E.g. () is valid. )( is not.
+
 
 ### Programs
 
