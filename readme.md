@@ -10,6 +10,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 [@scripore](https://github.com/scripore)
 
+[@adammenges](https://github.com/adammenges)
+
 ### Maths
 
 1. **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
