@@ -10,3 +10,5 @@
 8. Hailstone Sequence
 9. Next Prime Number
 10. Vampire Number
+11. Valid Parentheses
+12. Caesars Cipher
