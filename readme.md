@@ -6,11 +6,11 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 [@askl56](https://github.com/askl56)
 
-[@dansteele](https://github.com/dansteele)
-
 [@hunj](https://github.com/hunj)
 
 [@scripore](https://github.com/scripore)
+
+[@adammenges](https://github.com/adammenges)
 
 ### Maths
 
@@ -31,6 +31,15 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 8. **Hailstone Sequence** - Start with any positive integer (an initial seed) and obtain a sequence of numbers by following: if number is even divite it by two, if it is odd multiply it by 3 and add one. Repeat. 
 
 9. **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one. 
+
+10. **Vampire Numbers** - In mathematics, a [vampire number](https://en.wikipedia.org/wiki/Vampire_number) (or true vampire number) is a composite natural number v, with an even number of digits n, that can be factored into two integers x and y each with n/2 digits and not both with trailing zeroes, where v contains precisely all the digits from x and from y, in any order, counting multiplicity. x and y are called the fangs.
+
+11. **Valid Parentheses** - The basic idea is to create a method that takes a string as input, and returns a boolean. True if the parentheses in the string are valid, false if not. E.g. () is valid. )( is not.
+
+12. **Caesars Cipher** - In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. The method is named after Julius Caesar, who used it in his private correspondence.
+
+13. **Happy Numbers** - A happy number is defined by the following process. Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers.
+
 
 ### Programs
 

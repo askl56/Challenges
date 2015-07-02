@@ -9,3 +9,7 @@
 7. Multiplication Tables
 8. Hailstone Sequence
 9. Next Prime Number
+10. Vampire Number
+11. Valid Parentheses
+12. Caesars Cipher
+13. Happy Numbers
