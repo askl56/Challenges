@@ -1,7 +1,7 @@
 @memo = [0,1]
 def happy(n)
   sum = n.to_s.chars.map{|c| c.to_i**2}.inject(:+)
-  return @memo[sum] if @memo[sum]==0 or @memo[sum]==1
+  return @memo[sum] if @memo[sum]==0 || @memo[sum]==1
   @memo[sum] = 0                        # for the cycle check
   @memo[sum] = happy(sum)               # return 1:Happy number, 0:other
 end
