@@ -50,6 +50,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 2. **99 Bottles of Beer** - In this puzzle, write code to print out the entire "99 bottles of beer on the wall" song.
 
+3. **Garland Words** - A [garland word](http://blog.vivekhaldar.com/post/89763722591/garland-words) is one that starts and ends with the same N letters in the same order, for some N greater than 0, but less than the length of the word. 
+
 ### Ruby Exercises with RSpec
 
 **String Manipulation Category** - Exercises involving string manipulation
