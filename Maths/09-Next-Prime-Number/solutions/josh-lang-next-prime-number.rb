@@ -1,6 +1,5 @@
-@offset = 0
+@index = 0
 @primes = [2]
-input = ''
 output = @primes.first
 
 class Fixnum
@@ -22,17 +21,17 @@ def add_prime
   @primes << num
 end
 
-def out(off)
-  unless off < 0
-    output = @primes[off]
+def out(i)
+  unless i < 0
+    output = @primes[i]
     puts "=> #{output}"
   else
     if rand(2) == 0
       puts 'Woah, now'
-      @offset = 0
+      @index = 0
     else
       puts 'NO!'
-      @offset = 0
+      @index = 0
     end
   end
 end
@@ -50,15 +49,17 @@ loop do
   print "\n>> "
   input = gets.chomp
   if input == 'n' || input == 'next'
-    @offset += 1
+    @index += 1
     add_prime
-    out(@offset)
+    out(@index)
   elsif input == 'p' || input == 'prev' || input == 'previous'
-    @offset -= 1
-    out(@offset)
+    @index -= 1
+    out(@index)
   elsif input == 'q' || input == 'quit'
     puts 'quitting'
     break
+  elsif input == 'first' || input == 'first_prime'
+    puts '=> 2'
   else
     if rand(2) == 0
       puts "...you didn't type 'n', 'p', or 'q' like we agreed..."
