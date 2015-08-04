@@ -20,4 +20,5 @@
 1. Multiples of 3 and 5
 2. Even Fibonacci Numbers
 3. Largest Prime Factors
-4. Palindromic Numbers
+4. Palindromic Factors
+5. Smallest Multiple
