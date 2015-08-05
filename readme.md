@@ -1,6 +1,6 @@
 # Coding Challenges
 
-Simple. Fork the repo, complete the challenge (in any language you want), prefixed with your Github username and then submit a pull request. We encourage [atomic commits](http://www.freshconsulting.com/atomic-commits/). One change/task per commit.
+Simple. Fork the repo, complete the challenge (in any language you want), prefixed with your Github username and then submit a pull request. We encourage [atomic commits](http://www.freshconsulting.com/atomic-commits/). One change/task/challenge per commit.
 
 ## Contributors
 
