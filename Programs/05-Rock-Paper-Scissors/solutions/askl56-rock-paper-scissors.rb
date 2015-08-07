@@ -73,7 +73,7 @@ RockPaperScissorsGame.new
 
 
 
-sample game where human always chooses rock:
+# sample game where human always chooses rock:
 
 Your choice: ["rock", "paper", "scissors", "quit"]? r
 H: rock, C: rock => draw

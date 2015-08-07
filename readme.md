@@ -56,6 +56,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 4. **Palindromic Words** - To covert nearly any number into a palindromic number you operate by reversing the digits and adding and then repeating the steps until you get a palindromic number.
 
+5. **Rock Paper Scissors** - Recreate the fun children's game, Rock, Paper, Scissors
+
 ### Ruby Exercises with RSpec
 
 **String Manipulation Category** - Exercises involving string manipulation
