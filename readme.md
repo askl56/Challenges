@@ -58,6 +58,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 5. **Rock Paper Scissors** - Recreate the fun children's game, Rock, Paper, Scissors
 
+6. **Towes of Hanoi** - In this task, the goal is to solve the (Towers of Hanoi)[https://en.wikipedia.org/wiki/Towers_of_Hanoi] problem with recursion.  
+
 ### Ruby Exercises with RSpec
 
 **String Manipulation Category** - Exercises involving string manipulation
