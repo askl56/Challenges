@@ -5,3 +5,4 @@
 3. Garland Words
 4. Palindromic Words
 5. Rock, Paper, Scissors
+6. Towers of Hanoi
