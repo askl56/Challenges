@@ -22,3 +22,4 @@
 3. Largest Prime Factors
 4. Palindromic Factors
 5. Smallest Multiple
+6. Sum Square Difference
