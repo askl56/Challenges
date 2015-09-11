@@ -6,6 +6,8 @@ words.each do |word|
   puts "#{word.inspect}: #{res}"
 end
 
+# Output:
+
 "A": true
 "BaRK": true
 "BOoK": false
