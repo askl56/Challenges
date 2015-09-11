@@ -24,9 +24,11 @@ You are given a collection of ABC blocks. Just like the ones you had when you we
 The goal of this task is to write a function that takes a string and can determine whether you can spell the word with the given collection of blocks. 
 
 The rules are simple:
+
 1. Once a letter on a block is used that block cannot be used again
 2. The function should be case-insensitive
 3. Show your output on this page for the following words:
+
 ```
     >>> can_make_word("A")
     True
