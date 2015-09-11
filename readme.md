@@ -60,7 +60,11 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 5. **Rock Paper Scissors** - Recreate the fun children's game, Rock, Paper, Scissors
 
-6. **Towes of Hanoi** - In this task, the goal is to solve the (Towers of Hanoi)[https://en.wikipedia.org/wiki/Towers_of_Hanoi] problem with recursion.  
+6. **Towers of Hanoi** - In this task, the goal is to solve the (Towers of Hanoi)[https://en.wikipedia.org/wiki/Towers_of_Hanoi] problem with recursion.
+
+7. **Palindrome Detection** - Write at least one function/method (or whatever it is called in your preferred language) to check if a sequence of characters (or bytes) is a palindrome or not.
+
+8. **ABC Problem** - You are given a collection of ABC blocks. Just like the ones you had when you were a kid. There are twenty blocks with two letters on each block. You are guaranteed to have a complete alphabet amongst all sides of the blocks. 
 
 ### Ruby Exercises with RSpec
 
