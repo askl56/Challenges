@@ -7,7 +7,6 @@
 # Find the largest palindrome made from the product of
 # two 3-digit numbers.
 
-
 timer_start = Time.now
 
 def is_palindrome?(n)
@@ -15,13 +14,13 @@ def is_palindrome?(n)
 end
 
 max = 0
-100.upto(999) { |i|
-  i.upto(999) { |j|
+100.upto(999) do |i|
+  i.upto(999) do |j|
     p = i * j
 
-    if is_palindrome?(p) && p > max then max = p end
-  }
-}
+    max = p if is_palindrome?(p) && p > max
+  end
+end
 
-puts max #906609
-puts "Elapsed Time: #{(Time.now - timer_start)*1000} milliseconds"
+puts max # 906609
+puts "Elapsed Time: #{(Time.now - timer_start) * 1000} milliseconds"

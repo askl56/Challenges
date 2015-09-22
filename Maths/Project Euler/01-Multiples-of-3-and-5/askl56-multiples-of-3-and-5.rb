@@ -2,11 +2,9 @@
 
 def multiples
   numbers = Array(1..999)
-  multiples = Array.new
+  multiples = []
   for i in numbers
-    if i%3 == 0 or i%5 == 0
-      multiples.push(i)
-    end
+    multiples.push(i) if i % 3 == 0 || i % 5 == 0
   end
   multiples
 end

@@ -3,7 +3,7 @@ def multiplication_tables(row, col)
   (1..row).each do |row_count|
     table[row_count] = []
     (1..col).each do |col_count|
-       table[row_count].push(row_count * col_count)
+      table[row_count].push(row_count * col_count)
     end
   end
   table

@@ -1,7 +1,7 @@
 def square_sum(arr)
   sum = 0
   arr.each do |number|
-    sum += number ** 2
+    sum += number**2
   end
   sum
 end

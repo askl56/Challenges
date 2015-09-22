@@ -5,8 +5,7 @@ def fib(n, cache)
 end
 
 cache = {}
-p (1..100).map {|i| fib(i, cache)}
-
+p (1..100).map { |i| fib(i, cache) }
 
 # Recursive with memoization
 

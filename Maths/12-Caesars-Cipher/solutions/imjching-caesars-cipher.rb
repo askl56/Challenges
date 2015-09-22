@@ -1,5 +1,5 @@
 def caesar_cipher(string, shiftkey)
-  shiftkey.times { string = string.tr('a-zA-Z','b-zaB-ZA') }
+  shiftkey.times { string = string.tr('a-zA-Z', 'b-zaB-ZA') }
   string
 end
 

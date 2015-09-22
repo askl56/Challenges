@@ -2,11 +2,11 @@ def fizzbuzz(lbound, ubound)
   (lbound..ubound).each do |n|
     case
     when n % 3 == 0 && n % 5 == 0
-      puts "FizzBuzz"
+      puts 'FizzBuzz'
     when n % 5 == 0
-      puts "Buzz"
+      puts 'Buzz'
     when n % 3 == 0
-      puts "Fizz"
+      puts 'Fizz'
     else
       puts n
     end

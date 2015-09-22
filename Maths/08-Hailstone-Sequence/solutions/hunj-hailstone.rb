@@ -4,8 +4,8 @@ class Fixnum
     n = self
     arr << n
     while n != 1
-      if n % 2 == 0
-        arr << n/2
+      if n.even?
+        arr << n / 2
         n /= 2
       else
         arr << (3 * n + 1)
@@ -16,11 +16,9 @@ class Fixnum
   end
 end
 
-
 sequences = {}
 number = 0
 max = 0
-
 
 (1...1e5).each do |num|
   sequences[num] = num.hailstone.size

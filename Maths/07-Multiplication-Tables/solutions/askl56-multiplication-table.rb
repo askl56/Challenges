@@ -1,10 +1,10 @@
 def multiplication_table(n)
-  puts "    |" + (" %3d" * n) % [*1..n]
-  puts "----+" + "----" * n
+  puts '    |' + (' %3d' * n) % [*1..n]
+  puts '----+' + '----' * n
   1.upto(n) do |x|
-    print "%3d |" % x
-    1.upto(x-1) {|y| print "    "}
-    x.upto(n)   {|y| print " %3d" % (x*y)}
+    print '%3d |' % x
+    1.upto(x - 1) { |_y| print '    ' }
+    x.upto(n) { |y| print ' %3d' % (x * y) }
     puts
   end
 end

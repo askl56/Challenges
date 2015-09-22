@@ -8,5 +8,5 @@ def dottie_num(input)
     iterations += 1
   end
 
-  return [changed_num, iterations]
+  [changed_num, iterations]
 end

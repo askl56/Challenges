@@ -1,15 +1,15 @@
-def factor_pairs n
-  first = n / (10 ** (n.to_s.size / 2) - 1)
-  (first .. n ** 0.5).map { |i| [i, n / i] if n % i == 0 }.compact
+def factor_pairs(n)
+  first = n / (10**(n.to_s.size / 2) - 1)
+  (first..n**0.5).map { |i| [i, n / i] if n % i == 0 }.compact
 end
 
-def vampire_factors n
+def vampire_factors(n)
   return [] if n.to_s.size.odd?
   half = n.to_s.size / 2
   factor_pairs(n).select do |a, b|
     a.to_s.size == half && b.to_s.size == half &&
-    [a, b].count {|x| x%10 == 0} != 2          &&
-    "#{a}#{b}".chars.sort == n.to_s.chars.sort
+      [a, b].count { |x| x % 10 == 0 } != 2 &&
+      "#{a}#{b}".chars.sort == n.to_s.chars.sort
   end
 end
 
@@ -22,7 +22,7 @@ until vamps == 25
   end
 end
 
-[16758243290880, 24959017348650, 14593825548650].each do |n|
+[16_758_243_290_880, 24_959_017_348_650, 14_593_825_548_650].each do |n|
   if (vf = vampire_factors n).empty?
     puts "#{n} is not a vampire number!"
   else
