@@ -8,3 +8,4 @@
 6. Towers of Hanoi
 7. Palindrome Detection
 8. ABC Problem
+9. Ruth-Aaron Pairs

@@ -66,6 +66,8 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 8. **ABC Problem** - You are given a collection of ABC blocks. Just like the ones you had when you were a kid. There are twenty blocks with two letters on each block. You are guaranteed to have a complete alphabet amongst all sides of the blocks. 
 
+9. **Ruth-Aaron Pairs** - In mathematics, a Ruth–Aaron pair consists of two consecutive integers (e.g. 714 and 715) for which the sums of the distinct prime factors of each integer are equal. 
+
 ### Ruby Exercises with RSpec
 
 **String Manipulation Category** - Exercises involving string manipulation
