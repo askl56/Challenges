@@ -13,6 +13,7 @@
 11. Valid Parentheses
 12. Caesars Cipher
 13. Happy Numbers
+14. Dottie Number
 
 
 ## Project Euler
@@ -23,3 +24,4 @@
 4. Palindromic Factors
 5. Smallest Multiple
 6. Sum Square Difference
+7. 10001st Prime
