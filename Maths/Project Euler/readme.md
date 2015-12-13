@@ -1,4 +1,4 @@
-# Challenges from Project Euler 
+# Challenges from Project Euler
 
 List of challenges and solutions from [Project Euler](https://projecteuler.net/)
 
@@ -8,3 +8,4 @@ List of challenges and solutions from [Project Euler](https://projecteuler.net/)
 4. Palindromic Factors
 5. Smallest Multiple
 6. Sum Square Difference
+7. 1001st Prime
