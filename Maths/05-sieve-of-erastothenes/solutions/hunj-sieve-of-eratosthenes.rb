@@ -3,10 +3,9 @@ def sieve(number)
   sieve[0] = false # to exclude 0 from a prime number...
 
   (2..Math.sqrt(number).to_i).each do |i|
-    if sieve[i] == true
-      (i * i..number).step(i) do |j|
-        sieve[j] = false
-      end
+    next unless sieve[i] == true
+    (i * i..number).step(i) do |j|
+      sieve[j] = false
     end
   end
 
