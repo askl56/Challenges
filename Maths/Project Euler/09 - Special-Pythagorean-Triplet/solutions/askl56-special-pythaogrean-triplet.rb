@@ -10,7 +10,7 @@ def pythagorean_triples
   }
 end
 
-p pythagorean_triples.take_while { |*, z| z < 426 }.force
+p pythagorean_triples.take_while { |*, z| z <= 1000 }.force
 
 # puts x
 
