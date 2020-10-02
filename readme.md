@@ -68,7 +68,7 @@ Simple. Fork the repo, complete the challenge (in any language you want), prefix
 
 9. **Ruth-Aaron Pairs** - In mathematics, a Ruth–Aaron pair consists of two consecutive integers (e.g. 714 and 715) for which the sums of the distinct prime factors of each integer are equal. 
 
-### Ruby Exercises with RSpec
+### Ruby Exercises with RSpec.
 
 **String Manipulation Category** - Exercises involving string manipulation
 
